@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed G. Ibrahim</h1>
 <h3 align="center">I'm an M27 student @ Minerva University who's a curious developer interested in exploring as many CS fields as possible and traveling the world as he does so. Currently, I'm pursuing Game Development as a hobby.</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ahm3dGI1&icon=0&color=12)](https://visitcount.itsvg.in)
-
 - 🔭 I’m currently working on [Local AI Desktop Assistant](https://github.com/Ahm3dGI1/Private-Desktop-AI-Assistant) that can finish various tasks and hopefully fine-tune to the user's specific needs.
 
 - 🌱 I’m currently learning **different languages and frameworks trough creating projects until I find what I'm interested in.**
