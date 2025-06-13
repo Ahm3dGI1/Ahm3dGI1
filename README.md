@@ -2,7 +2,7 @@
 <h3 align="center">🌍 Exploring the World, One Code at a Time</h3>
 
 <p align="center">
-I'm a sophomore at <strong>Minerva University</strong>, combining my passion for <strong>Computer Science</strong>, <strong>Mathematics</strong>, and <strong>global experiences</strong>. I’m a curious developer driven by the thrill of exploring diverse fields in CS—from AI to Game Development—and creating meaningful projects that solve real-world problems.
+I'm a Junior at <strong>Minerva University</strong>, combining my passion for <strong>Computer Science</strong> and <strong>global experiences</strong>. I’m a curious developer driven by the thrill of exploring diverse fields in CS—from AI to Game Development—and creating meaningful projects that solve real-world problems.
 </p>
 
 ---
@@ -18,7 +18,7 @@ I'm a sophomore at <strong>Minerva University</strong>, combining my passion for
 
 ### 🌱 What I’m Learning
 - **Experimenting with Languages & Frameworks**  
-   From Python to C++, React to Electron.js—my journey involves hands-on learning through projects to uncover where my true interests lie.  
+   From Python to C++, React to Electron—my journey involves hands-on learning through projects to uncover where my true interests lie.  
 ---
 
 <h3 align="left">Connect with me:</h3>
