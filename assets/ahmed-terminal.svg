@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">Ahmed, under the hood.</title>
+<desc id="desc">A terminal window where ASCII characters assemble into AHMED. Sometimes I build tools. Sometimes I build the thing the tools run on.</desc>
+<rect x="1" y="1" width="958" height="338" rx="16" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 47H959" stroke="#30363d"/>
+<circle cx="27" cy="25" r="5" fill="#ff7b72"/>
+<circle cx="46" cy="25" r="5" fill="#e3b341"/>
+<circle cx="65" cy="25" r="5" fill="#7ee787"/>
+<g font-family="monospace" font-size="13" fill="#8b949e">
+<text x="92" y="30">ahmed@github: ~</text>
+<text x="36" y="82" fill="#79c0ff">$ ./under-the-hood</text>
+</g>
+<g font-family="monospace" font-size="18" font-weight="bold" fill="#a5d6ff">
+<text x="247" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.468s" begin="0s" fill="freeze"/></text>
+<text x="264" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.486s" begin="0s" fill="freeze"/></text>
+<text x="281" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.504s" begin="0s" fill="freeze"/></text>
+<text x="230" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.495s" begin="0s" fill="freeze"/></text>
+<text x="247" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.513s" begin="0s" fill="freeze"/></text>
+<text x="281" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.549s" begin="0s" fill="freeze"/></text>
+<text x="298" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.567s" begin="0s" fill="freeze"/></text>
+<text x="230" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.540s" begin="0s" fill="freeze"/></text>
+<text x="247" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.558s" begin="0s" fill="freeze"/></text>
+<text x="281" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.594s" begin="0s" fill="freeze"/></text>
+<text x="298" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.612s" begin="0s" fill="freeze"/></text>
+<text x="230" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.585s" begin="0s" fill="freeze"/></text>
+<text x="247" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.603s" begin="0s" fill="freeze"/></text>
+<text x="264" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.621s" begin="0s" fill="freeze"/></text>
+<text x="281" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.639s" begin="0s" fill="freeze"/></text>
+<text x="298" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.657s" begin="0s" fill="freeze"/></text>
+<text x="230" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.630s" begin="0s" fill="freeze"/></text>
+<text x="247" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.648s" begin="0s" fill="freeze"/></text>
+<text x="281" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.684s" begin="0s" fill="freeze"/></text>
+<text x="298" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.702s" begin="0s" fill="freeze"/></text>
+<text x="230" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.675s" begin="0s" fill="freeze"/></text>
+<text x="247" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.693s" begin="0s" fill="freeze"/></text>
+<text x="281" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.729s" begin="0s" fill="freeze"/></text>
+<text x="298" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.747s" begin="0s" fill="freeze"/></text>
+<text x="230" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.720s" begin="0s" fill="freeze"/></text>
+<text x="247" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.738s" begin="0s" fill="freeze"/></text>
+<text x="281" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.774s" begin="0s" fill="freeze"/></text>
+<text x="298" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.792s" begin="0s" fill="freeze"/></text>
+<text x="332" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.620s" begin="0s" fill="freeze"/></text>
+<text x="349" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.638s" begin="0s" fill="freeze"/></text>
+<text x="383" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.674s" begin="0s" fill="freeze"/></text>
+<text x="400" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.692s" begin="0s" fill="freeze"/></text>
+<text x="332" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.665s" begin="0s" fill="freeze"/></text>
+<text x="349" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.683s" begin="0s" fill="freeze"/></text>
+<text x="383" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.719s" begin="0s" fill="freeze"/></text>
+<text x="400" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.737s" begin="0s" fill="freeze"/></text>
+<text x="332" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.710s" begin="0s" fill="freeze"/></text>
+<text x="349" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.728s" begin="0s" fill="freeze"/></text>
+<text x="383" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.764s" begin="0s" fill="freeze"/></text>
+<text x="400" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.782s" begin="0s" fill="freeze"/></text>
+<text x="332" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.755s" begin="0s" fill="freeze"/></text>
+<text x="349" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.773s" begin="0s" fill="freeze"/></text>
+<text x="366" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.791s" begin="0s" fill="freeze"/></text>
+<text x="383" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.809s" begin="0s" fill="freeze"/></text>
+<text x="400" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.827s" begin="0s" fill="freeze"/></text>
+<text x="332" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.800s" begin="0s" fill="freeze"/></text>
+<text x="349" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.818s" begin="0s" fill="freeze"/></text>
+<text x="383" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.854s" begin="0s" fill="freeze"/></text>
+<text x="400" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.872s" begin="0s" fill="freeze"/></text>
+<text x="332" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.845s" begin="0s" fill="freeze"/></text>
+<text x="349" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.863s" begin="0s" fill="freeze"/></text>
+<text x="383" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.899s" begin="0s" fill="freeze"/></text>
+<text x="400" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.917s" begin="0s" fill="freeze"/></text>
+<text x="332" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.890s" begin="0s" fill="freeze"/></text>
+<text x="349" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.908s" begin="0s" fill="freeze"/></text>
+<text x="383" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.944s" begin="0s" fill="freeze"/></text>
+<text x="400" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.962s" begin="0s" fill="freeze"/></text>
+<text x="434" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.790s" begin="0s" fill="freeze"/></text>
+<text x="502" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.862s" begin="0s" fill="freeze"/></text>
+<text x="434" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.835s" begin="0s" fill="freeze"/></text>
+<text x="451" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.853s" begin="0s" fill="freeze"/></text>
+<text x="485" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.889s" begin="0s" fill="freeze"/></text>
+<text x="502" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.907s" begin="0s" fill="freeze"/></text>
+<text x="434" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.880s" begin="0s" fill="freeze"/></text>
+<text x="451" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.898s" begin="0s" fill="freeze"/></text>
+<text x="468" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.916s" begin="0s" fill="freeze"/></text>
+<text x="485" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.934s" begin="0s" fill="freeze"/></text>
+<text x="502" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.952s" begin="0s" fill="freeze"/></text>
+<text x="434" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.925s" begin="0s" fill="freeze"/></text>
+<text x="468" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.961s" begin="0s" fill="freeze"/></text>
+<text x="502" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.997s" begin="0s" fill="freeze"/></text>
+<text x="434" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.970s" begin="0s" fill="freeze"/></text>
+<text x="502" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.042s" begin="0s" fill="freeze"/></text>
+<text x="434" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.015s" begin="0s" fill="freeze"/></text>
+<text x="502" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.087s" begin="0s" fill="freeze"/></text>
+<text x="434" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.060s" begin="0s" fill="freeze"/></text>
+<text x="502" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.132s" begin="0s" fill="freeze"/></text>
+<text x="536" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.960s" begin="0s" fill="freeze"/></text>
+<text x="553" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.978s" begin="0s" fill="freeze"/></text>
+<text x="570" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="0.996s" begin="0s" fill="freeze"/></text>
+<text x="587" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.014s" begin="0s" fill="freeze"/></text>
+<text x="604" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.032s" begin="0s" fill="freeze"/></text>
+<text x="536" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.005s" begin="0s" fill="freeze"/></text>
+<text x="553" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.023s" begin="0s" fill="freeze"/></text>
+<text x="536" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.050s" begin="0s" fill="freeze"/></text>
+<text x="553" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.068s" begin="0s" fill="freeze"/></text>
+<text x="536" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.095s" begin="0s" fill="freeze"/></text>
+<text x="553" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.113s" begin="0s" fill="freeze"/></text>
+<text x="570" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.131s" begin="0s" fill="freeze"/></text>
+<text x="587" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.149s" begin="0s" fill="freeze"/></text>
+<text x="536" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.140s" begin="0s" fill="freeze"/></text>
+<text x="553" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.158s" begin="0s" fill="freeze"/></text>
+<text x="536" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.185s" begin="0s" fill="freeze"/></text>
+<text x="553" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.203s" begin="0s" fill="freeze"/></text>
+<text x="536" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.230s" begin="0s" fill="freeze"/></text>
+<text x="553" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.248s" begin="0s" fill="freeze"/></text>
+<text x="570" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.266s" begin="0s" fill="freeze"/></text>
+<text x="587" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.284s" begin="0s" fill="freeze"/></text>
+<text x="604" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.302s" begin="0s" fill="freeze"/></text>
+<text x="638" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.130s" begin="0s" fill="freeze"/></text>
+<text x="655" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.148s" begin="0s" fill="freeze"/></text>
+<text x="672" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.166s" begin="0s" fill="freeze"/></text>
+<text x="689" y="119">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.184s" begin="0s" fill="freeze"/></text>
+<text x="638" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.175s" begin="0s" fill="freeze"/></text>
+<text x="655" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.193s" begin="0s" fill="freeze"/></text>
+<text x="689" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.229s" begin="0s" fill="freeze"/></text>
+<text x="706" y="138">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.247s" begin="0s" fill="freeze"/></text>
+<text x="638" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.220s" begin="0s" fill="freeze"/></text>
+<text x="655" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.238s" begin="0s" fill="freeze"/></text>
+<text x="689" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.274s" begin="0s" fill="freeze"/></text>
+<text x="706" y="157">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.292s" begin="0s" fill="freeze"/></text>
+<text x="638" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.265s" begin="0s" fill="freeze"/></text>
+<text x="655" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.283s" begin="0s" fill="freeze"/></text>
+<text x="689" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.319s" begin="0s" fill="freeze"/></text>
+<text x="706" y="176">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.337s" begin="0s" fill="freeze"/></text>
+<text x="638" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.310s" begin="0s" fill="freeze"/></text>
+<text x="655" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.328s" begin="0s" fill="freeze"/></text>
+<text x="689" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.364s" begin="0s" fill="freeze"/></text>
+<text x="706" y="195">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.382s" begin="0s" fill="freeze"/></text>
+<text x="638" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.355s" begin="0s" fill="freeze"/></text>
+<text x="655" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.373s" begin="0s" fill="freeze"/></text>
+<text x="689" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.409s" begin="0s" fill="freeze"/></text>
+<text x="706" y="214">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.427s" begin="0s" fill="freeze"/></text>
+<text x="638" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.400s" begin="0s" fill="freeze"/></text>
+<text x="655" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.418s" begin="0s" fill="freeze"/></text>
+<text x="672" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.436s" begin="0s" fill="freeze"/></text>
+<text x="689" y="233">#<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.454s" begin="0s" fill="freeze"/></text>
+</g>
+<text x="480" y="276" text-anchor="middle" font-family="monospace" font-size="16" fill="#f0f6fc">Sometimes I build tools.</text>
+<text x="480" y="302" text-anchor="middle" font-family="monospace" font-size="16" fill="#8b949e">Sometimes I build the thing the tools run on.</text>
+</svg>
