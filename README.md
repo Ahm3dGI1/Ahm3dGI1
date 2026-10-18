@@ -4,7 +4,9 @@
 
 I'm Ahmed Ibrahim (friends call me Gouda).
 
-I'm a senior CS student @ Minerva University and a 2x SWE intern @ Dropbox.
+I'm a senior CS student @ Minerva University and a TA for CS162: Software Development course.
+
+I also did 2 SWE internships @ Dropbox
 
 You can reach me on: [LinkedIn](https://www.linkedin.com/in/ahmed-gi/) · [ahmedgouda797@gmail.com](mailto:ahmedgouda797@gmail.com)
 <br clear="left" />
