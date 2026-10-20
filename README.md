@@ -1,6 +1,6 @@
 <img align="left" width="220" alt="image" src="https://github.com/user-attachments/assets/a924502d-7e16-4264-9e49-161f78812b7c" />
 
-### Welcome traveler
+### Welcome, traveler
 
 I'm Ahmed Ibrahim (friends call me Gouda).
 
